@@ -1,2 +1,6 @@
 abbod
+<<<<<<< HEAD
 new line number #2
+=======
+mustafa new row
+>>>>>>> c3215508371e156fa0b6f7d9ca5b74fbde3a913e

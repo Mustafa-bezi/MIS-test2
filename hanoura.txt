@@ -1,1 +1,3 @@
 solving the conflict
+
+write new lin from fork
